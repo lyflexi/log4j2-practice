@@ -1,0 +1,18 @@
+2024-09-29 00:27:46,223 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests]: DebugLog4j2ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-09-29 00:27:46,353 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration org.lyflexi.debuglog4j2.DebugLog4j2Application for test class org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests
+2024-09-29 00:27:46,854 INFO org.springframework.boot.StartupInfoLogger [main] Starting DebugLog4j2ApplicationTests using Java 17.0.9 with PID 20264 (started by hasee in E:\github\log4j2-practice\debug-log4j2)
+2024-09-29 00:27:46,860 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-09-29 00:27:48,204 INFO org.springframework.boot.StartupInfoLogger [main] Started DebugLog4j2ApplicationTests in 1.665 seconds (process running for 3.774)
+2024-09-29 00:27:48,715 INFO org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests [main] Hello World:张三
+2024-09-29 00:27:58,848 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests]: DebugLog4j2ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-09-29 00:27:58,978 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration org.lyflexi.debuglog4j2.DebugLog4j2Application for test class org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests
+2024-09-29 00:27:59,466 INFO org.springframework.boot.StartupInfoLogger [main] Starting DebugLog4j2ApplicationTests using Java 17.0.9 with PID 16520 (started by hasee in E:\github\log4j2-practice\debug-log4j2)
+2024-09-29 00:27:59,473 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-09-29 00:28:00,914 INFO org.springframework.boot.StartupInfoLogger [main] Started DebugLog4j2ApplicationTests in 1.762 seconds (process running for 3.602)
+2024-09-29 00:28:01,414 INFO org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests [main] Hello World:张三
+2024-09-29 00:28:26,307 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests]: DebugLog4j2ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-09-29 00:28:26,407 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration org.lyflexi.debuglog4j2.DebugLog4j2Application for test class org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests
+2024-09-29 00:28:26,941 INFO org.springframework.boot.StartupInfoLogger [main] Starting DebugLog4j2ApplicationTests using Java 17.0.9 with PID 15224 (started by hasee in E:\github\log4j2-practice\debug-log4j2)
+2024-09-29 00:28:26,949 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-09-29 00:28:28,101 INFO org.springframework.boot.StartupInfoLogger [main] Started DebugLog4j2ApplicationTests in 1.531 seconds (process running for 3.269)
+2024-09-29 00:28:28,562 INFO org.lyflexi.debuglog4j2.DebugLog4j2ApplicationTests [main] Hello World:张三
